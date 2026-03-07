@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-03-07 16:04:09",
+  "session_seconds": 1720,
+  "total_images": 359,
+  "annotated": 362,
+  "skipped": 3,
+  "val_images": 73,
+  "total_boxes": 372,
+  "classes": [
+    "bangle"
+  ],
+  "train_folder": "dataset/images/train",
+  "val_folder": "dataset/images/val"
+}

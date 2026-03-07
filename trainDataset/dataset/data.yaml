@@ -1,0 +1,6 @@
+path: C:\Users\vinod\Downloads\trainDataset\dataset
+train: images/train
+val: images/val
+
+nc: 1
+names: ['bangle']
